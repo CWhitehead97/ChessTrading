@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/.venv
+/.vscode
+/ChessTradingWorkspace.code-workspace
+/docs
+/models
+/poetry.lock
+/pyproject.toml
+/reports
